@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">demoContextMenuTranslation2</string>
+    <string name="hello">Hello</string>
+    <string name="bye">Bye</string>
+    <string name="helloI">Ciao</string>
+    <string name="byeI">Addio</string>
+    <string name="choice">Pick One: </string>
+</resources>
